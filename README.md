@@ -1,2 +1,4 @@
 # Calculator
-Create a javascript calculotr, one of Free Code Camp's advanced front end development projects. 
+This project is for creating a calculotr using a Javascript, one of Free Code Camp's advanced front end development projects.
+
+
