@@ -1,0 +1,47 @@
+body{background-image:url('https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/f/49/f490919b-efcc-537a-96fd-c679b02fcd95/59a9d558b1363.image.jpg?resize=1200%2C803');
+background-repeat:no-repeat;
+background-size:cover;
+}
+form{margin:auto; 
+    width:250px;
+    margin-top:10%;
+    background-color:white;
+    }
+.formstyle{border:1px solid #d9d9d9;
+           border-radius:10%;
+           height:auto;
+           width:250px;
+           text-align:center;
+           box-shadow:10px 10px #737373;
+           margin:15% 40%;
+           display:block;
+           background-color:white
+           }
+#result{border:2px solid #b4b39d;
+      box-shadow:2px 2px gray;
+      border-radius:8%;
+      margin:25px;
+      padding:5px 3px;
+      background-color:gray;
+      text-align:right;}
+.button1{background-color:#B72525;
+         box-shadow:2px 2px black;
+         font-weight:bold;
+        color:white;
+        margin-right:6px;
+        margin-top:15px;
+        border-radius:20%;
+        padding:4px 8px 4px;
+        }
+button{background-color:#413535;
+         box-shadow:2px 2px black;
+         font-weight:bold;
+        color:white;
+        margin-right:6px;
+        margin-top:15px;
+  border-radius:20%;
+  padding:4px 13.5px 4px;}
+#plus{position:absolute;
+     margin-left:5px;}
+.div1{padding-right:50px;}
+
